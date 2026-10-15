@@ -63,9 +63,9 @@ A Python computer-readiness checker inspired by my experience refurbishing compu
 - Generates a structured JSON report.
 - Includes three automated unit tests covering sufficient space, insufficient space, and the exact minimum threshold.
 
-**Technologies**: ** Python, unittest, unittest.mock, Git
+**Technologies:** Python, unittest, unittest.mock, Git
 
-**Currently tested on**: macOS with Apple Silicon
+**Currently tested on:** macOS with Apple Silicon
 
 **Planned:** Error handling, command-line options, Ubuntu validation, additional readiness checks, and HTML reports.
 <!-- Add your best repositories here as you complete them. -->
