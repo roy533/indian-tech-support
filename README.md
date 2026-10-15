@@ -54,7 +54,7 @@ As these projects are completed, I'll be documenting the code, methodology, find
 
 ## 📌 Featured Projects
 
-### [SecureRefurb] (https://github.com/roy533/secure-refurb) - in progress
+### [SecureRefurb](https://github.com/roy533/secure-refurb) - in progress
 
 A Python computer-readiness checker inspired by my experience refurbishing computers at Kramden Institute.
 
@@ -64,7 +64,9 @@ A Python computer-readiness checker inspired by my experience refurbishing compu
 - Includes three automated unit tests covering sufficient space, insufficient space, and the exact minimum threshold.
 
 **Technologies**: ** Python, unittest, unittest.mock, Git
+
 **Currently tested on**: macOS with Apple Silicon
+
 **Planned:** Error handling, command-line options, Ubuntu validation, additional readiness checks, and HTML reports.
 <!-- Add your best repositories here as you complete them. -->
 
